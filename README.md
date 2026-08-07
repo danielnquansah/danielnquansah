@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hello, I'm Daniel Ninsin Quansah 👋
 
-<!--
-**danielnquansah/danielnquansah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher | Statistician | Data Analyst | Monitoring & Evaluation Specialist
 
-Here are some ideas to get you started:
+I am passionate about using data, research and evidence-based policy to solve development challenges across Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+- Machine Learning
+- Development Economics
+- Financial Inclusion
+- Survey Methodology
+- Public Policy
+- Artificial Intelligence
+- Monitoring & Evaluation
+
+## Current Research
+
+- Mobile Money Fraud Detection using Machine Learning
+- Financial Inclusion in Africa
+- Climate Change and Development
+- Impact Evaluation
+- Survey Statistics
+
+## Skills
+
+- Python
+- R
+- Power BI
+- SQL
+- Excel
+- KoboToolbox
+- ODK
+- SurveyCTO
+- CSPro
+
+## Professional Experience
+
+- Ghana Statistical Service
+- ISSER
+- IPA Ghana
+- SIA360 Ltd
+- Alhaena Research Centre
+
+## Publications
+
+See Google Scholar.
+
+## Find me
+
+- ORCID
+- Google Scholar
+- LinkedIn
+- ResearchGate

@@ -49,6 +49,6 @@ See Google Scholar.
 ## Find me
 
 - [ORCID](https://orcid.org/0009-0005-8924-5024)
-- [Google Scholar](https://scholar.google.com/citations?user=JfPhk9gAAAAJ&hl=en))
-- [LinkedIn](www.linkedin.com/in/daniel-ninsin-quansah-86ba49339)
+- [Google Scholar](https://scholar.google.com/citations?user=JfPhk9gAAAAJ&hl=en)
+- [LinkedIn](linkedin.com/in/daniel-ninsin-quansah-86ba49339)
 - [ResearchGate](https://www.researchgate.net/profile/Daniel-Quansah-2?ev=hdr_xprf)
